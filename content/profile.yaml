@@ -7,7 +7,7 @@
   location: 'New York, USA'
   relocation: false
   company: Atomic Studio
-  for_hire: false
+  for_hire: true
   focus: Learning Gatsby
   focus_url: 'https://gatsbyjs.org'
   about: >
