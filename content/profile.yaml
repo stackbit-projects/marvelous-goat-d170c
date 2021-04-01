@@ -6,7 +6,6 @@
   image: images/profile.jpg
   location: 'New York, USA'
   relocation: false
-  company: Coding With ADHD
   for_hire: true
   focus: Writing Blogs
   focus_url: 'https://gatsbyjs.org'
